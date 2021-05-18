@@ -63,7 +63,6 @@ int  main(int argc, char* argv[])
     sequential_sum();
 
     // unsigned int correct = (N * (N+1)) / 2;
-    std::cout << "correct: " << correct << std::endl;
 }   
 
 
