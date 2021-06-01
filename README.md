@@ -26,7 +26,8 @@ Use the `graph.py` simple script to visualize the speedup after running the bina
 
 ### Example
 
-```make cilk_max opt=-O3
+```
+make cilk_max opt=-O3
 ./bin/cilk_max
 chmod +x graph.py
 ./graph.py
